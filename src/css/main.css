@@ -1,0 +1,58 @@
+.middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 1.3rem;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.zobox {
+    font-weight: 700 !important;
+    transition: all 0.3s ease-in-out;
+}
+
+.zobox:hover {
+    text-decoration: underline;
+    transform: scale(2);
+}
+
+.services-right-content {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 8%;
+}
+
+.video-bg {
+    background-image: url("../images/video/bg.mp4");
+}
+
+.ourworks {
+    background: black;
+    color: white;
+    font-weight: 700;
+    padding: 10%;
+    border: 10px;
+    border-radius: 10px;
+}
+
+.ourworks-text {
+    padding-top: 5%;
+}
+
+@media screen and (max-width:1024px) {
+    .section-intro-responsive {
+        display: block;
+    }
+
+    .ourworks {
+        margin-top: 5%;
+    }
+}
