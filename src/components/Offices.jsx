@@ -22,9 +22,9 @@ const Offices = ({ invert = false, ...props }) => {
     <ul role="list" {...props}>
       <li>
         <Office name="Office" invert={invert}>
-          Beşyol Mah. İnönü Cd. No: 38 D Blok
+          Beşyol Mah. Inönü Cd. No: 38 D Blok
           <br />
-          34295 Küçükçekmece / İSTANBUL
+          34295 Küçükçekmece / ISTANBUL
         </Office>
       </li>
       <li>
