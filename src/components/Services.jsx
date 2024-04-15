@@ -41,7 +41,7 @@ const Services = () => {
               Unlock the potential of AI to revolutionize your business. Our custom solutions leverage cutting-edge technology to streamline operations, improve customer interactions, and deliver unparalleled growth in the digital age.
               <br />
               <br />
-              In addition, we are developing a Saas-based AI platform called <a href="https://zobox.net" class="zobox">ZOBOX</a> for online artificial intelligence tools.
+              In addition, we are developing a Saas-based AI platform called <a href="https://zobox.net" className="zobox">ZOBOX</a> for online artificial intelligence tools.
             </ListItem>
             <ListItem title="Web Development">
               Transforming visions into stunning realities. Elevate your online presence with our bespoke web solutions. From captivating marketing pages to seamless user experiences, we bring your brand to life.

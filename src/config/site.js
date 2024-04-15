@@ -1,8 +1,10 @@
+import favıcon from "./favicon.ico"
+
 export function constructMetadata({
   title = " FEZA.TECH | Innovation Solutions - Efficiently Proceses ",
   description = " FEZA.TECH | Innovation Solutions - Efficiently Proceses",
   image = "/agency.PNG",
-  icons = "/favicon.ico",
+  icons = favIcon,
   noIndex = false,
 }) {
   return {
